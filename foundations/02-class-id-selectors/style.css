@@ -1,0 +1,16 @@
+.uneven {
+    background-color: rgb(238, 155, 155);
+    font-family: Verdana, "DejaVu Sans" sans-serif;
+}
+.special {
+    font-size: 24px;
+}
+#one {
+    color: #0000FF;
+    font-size: 36px;
+}
+#two {
+    background-color: hsl(120, 120%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
